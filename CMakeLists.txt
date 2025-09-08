@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(Kinetic! VERSION "0.0.1")
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 
 if(CMAKE_BUILD_TYPE STREQUAL "Debug")
     set(K2C_BT 1)
