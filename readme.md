@@ -6,12 +6,12 @@ This a personal repository of learnings. It currently includes;
 
 ## Requirements
 
-* C++23 (https://en.cppreference.com/w/cpp/23)
-* CMake (https://cmake.org/)
+* [C++23](https://en.cppreference.com/w/cpp/23) Compiler
+* [CMake](https://cmake.org/)
 
 ## Internal Depdendencies
 
-* spdlog for logging (https://github.com/gabime/spdlog) referenced from GitHub (https://github.com/gabime/spdlog.git)
+* spdlog for [logging](https://github.com/gabime/spdlog) ([Cloned From](https://github.com/gabime/spdlog.git))
 
 # Build
 
